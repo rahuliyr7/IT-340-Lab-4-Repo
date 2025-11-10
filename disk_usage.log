@@ -1,39 +1,914 @@
-Omar's Disk Performance Report - Wed Sep 24 08:00:18 PM EDT 2025:
+Disk Report -Fri Sep 26 10:23:47 AM EDT 2025
 Filesystem      Size  Used Avail Use% Mounted on
-tmpfs           336M  2.1M  334M   1% /run
-/dev/sda2        20G   11G  8.2G  56% /
+tmpfs           339M  1.7M  338M   1% /run
+/dev/nvme0n1p2   19G   10G  7.7G  57% /
 tmpfs           1.7G     0  1.7G   0% /dev/shm
+efivarfs        256K   33K  224K  13% /sys/firmware/efi/efivars
 tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           1.7G   20K  1.7G   1% /tmp
+tmpfs           339M  112K  339M   1% /run/user/1000
+/dev/sr1        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm64
+/dev/sr0        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm641
+---------------
+Disk Report -Fri Sep 26 10:25:25 AM EDT 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           339M  1.7M  338M   1% /run
+/dev/nvme0n1p2   19G   10G  7.7G  57% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+efivarfs        256K   33K  224K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           1.7G   20K  1.7G   1% /tmp
+tmpfs           339M  112K  339M   1% /run/user/1000
+/dev/sr1        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm64
+/dev/sr0        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm641
+---------------
+Disk Report - Fri Sep 26 10:35:02 AM EDT 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           339M  1.9M  337M   1% /run
+/dev/nvme0n1p2   19G   10G  7.7G  57% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+efivarfs        256K   33K  224K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           1.7G   20K  1.7G   1% /tmp
+tmpfs           339M  112K  339M   1% /run/user/1000
+/dev/sr1        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm64
+/dev/sr0        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm641
+---------------
+Disk Report - Fri Sep 26 10:39:24 AM EDT 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           339M  1.9M  337M   1% /run
+/dev/nvme0n1p2   19G   10G  7.7G  57% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+efivarfs        256K   33K  224K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           1.7G   20K  1.7G   1% /tmp
+tmpfs           339M  112K  339M   1% /run/user/1000
+/dev/sr1        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm64
+/dev/sr0        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm641
+---------------
+Disk Report - Fri Sep 26 10:40:01 AM EDT 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           339M  1.9M  337M   1% /run
+/dev/nvme0n1p2   19G   10G  7.7G  57% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+efivarfs        256K   33K  224K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           1.7G   20K  1.7G   1% /tmp
+tmpfs           339M  112K  339M   1% /run/user/1000
+/dev/sr1        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm64
+/dev/sr0        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm641
+---------------
+Disk Report - Fri Sep 26 10:45:01 AM EDT 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           339M  1.9M  337M   1% /run
+/dev/nvme0n1p2   19G   10G  7.7G  57% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+efivarfs        256K   33K  224K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           1.7G   20K  1.7G   1% /tmp
+tmpfs           339M  112K  339M   1% /run/user/1000
+/dev/sr1        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm64
+/dev/sr0        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm641
+---------------
+Disk Report - Fri Sep 26 10:50:01 AM EDT 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           339M  1.9M  337M   1% /run
+/dev/nvme0n1p2   19G   10G  7.7G  57% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+efivarfs        256K   33K  224K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           1.7G   20K  1.7G   1% /tmp
+tmpfs           339M  116K  339M   1% /run/user/1000
+/dev/sr1        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm64
+/dev/sr0        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm641
+---------------
+Disk Report - Fri Sep 26 10:55:01 AM EDT 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           339M  1.9M  337M   1% /run
+/dev/nvme0n1p2   19G   10G  7.7G  57% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+efivarfs        256K   33K  224K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           1.7G  3.8M  1.7G   1% /tmp
+tmpfs           339M  120K  339M   1% /run/user/1000
+/dev/sr1        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm64
+/dev/sr0        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm641
+---------------
+Disk Report - Wed Oct  1 10:40:01 AM EDT 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           339M  1.7M  338M   1% /run
+/dev/nvme0n1p2   19G   10G  7.7G  57% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+efivarfs        256K   33K  224K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           1.7G   16K  1.7G   1% /tmp
+tmpfs           339M  120K  339M   1% /run/user/1000
+/dev/sr0        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm641
+/dev/sr1        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm64
+---------------
+Disk Report - Wed Oct  1 10:45:01 AM EDT 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           339M  1.7M  338M   1% /run
+/dev/nvme0n1p2   19G   11G  7.2G  60% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+efivarfs        256K   33K  224K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           1.7G   20K  1.7G   1% /tmp
+tmpfs           339M  120K  339M   1% /run/user/1000
+/dev/sr0        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm641
+/dev/sr1        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm64
+---------------
+Disk Report - Wed Oct  1 10:50:00 AM EDT 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           339M  1.7M  338M   1% /run
+/dev/nvme0n1p2   19G   11G  7.2G  60% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+efivarfs        256K   33K  224K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           1.7G   16K  1.7G   1% /tmp
+tmpfs           339M  108K  339M   1% /run/user/1000
+/dev/sr1        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm64
+/dev/sr0        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm641
+---------------
+Disk Report - Wed Oct  1 10:55:01 AM EDT 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           339M  1.7M  338M   1% /run
+/dev/nvme0n1p2   19G   11G  7.2G  60% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+efivarfs        256K   33K  224K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           1.7G   16K  1.7G   1% /tmp
+tmpfs           339M  108K  339M   1% /run/user/1000
+/dev/sr1        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm64
+/dev/sr0        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm641
+---------------
+Disk Report - Wed Oct  1 11:00:01 AM EDT 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           339M  1.7M  338M   1% /run
+/dev/nvme0n1p2   19G   11G  7.2G  60% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+efivarfs        256K   33K  224K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           1.7G   16K  1.7G   1% /tmp
+tmpfs           339M  112K  339M   1% /run/user/1000
+/dev/sr1        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm64
+/dev/sr0        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm641
+---------------
+Disk Report - Wed Oct  1 11:05:01 AM EDT 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           339M  1.7M  338M   1% /run
+/dev/nvme0n1p2   19G   11G  7.2G  60% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+efivarfs        256K   33K  224K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           1.7G   16K  1.7G   1% /tmp
+tmpfs           339M  112K  339M   1% /run/user/1000
+/dev/sr1        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm64
+/dev/sr0        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm641
+---------------
+Disk Report - Wed Oct  1 11:10:01 AM EDT 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           339M  1.7M  338M   1% /run
+/dev/nvme0n1p2   19G   11G  7.2G  60% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+efivarfs        256K   33K  224K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           1.7G   16K  1.7G   1% /tmp
+tmpfs           339M  112K  339M   1% /run/user/1000
+/dev/sr1        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm64
+/dev/sr0        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm641
+---------------
+Disk Report - Wed Oct  1 11:15:01 AM EDT 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           339M  1.7M  338M   1% /run
+/dev/nvme0n1p2   19G   11G  7.2G  60% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+efivarfs        256K   33K  224K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           1.7G   16K  1.7G   1% /tmp
+tmpfs           339M  112K  339M   1% /run/user/1000
+/dev/sr1        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm64
+/dev/sr0        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm641
+---------------
+Disk Report - Wed Oct  1 11:20:01 AM EDT 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           339M  1.7M  338M   1% /run
+/dev/nvme0n1p2   19G   11G  7.2G  60% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+efivarfs        256K   33K  224K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           1.7G   16K  1.7G   1% /tmp
+tmpfs           339M  112K  339M   1% /run/user/1000
+/dev/sr1        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm64
+/dev/sr0        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm641
+---------------
+Disk Report - Wed Oct  1 11:25:01 AM EDT 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           339M  1.7M  338M   1% /run
+/dev/nvme0n1p2   19G   11G  7.2G  60% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+efivarfs        256K   33K  224K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           1.7G   16K  1.7G   1% /tmp
+tmpfs           339M  112K  339M   1% /run/user/1000
+/dev/sr1        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm64
+/dev/sr0        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm641
+---------------
+Disk Report - Wed Oct  1 11:30:01 AM EDT 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           339M  1.7M  338M   1% /run
+/dev/nvme0n1p2   19G   11G  7.2G  60% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+efivarfs        256K   33K  224K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           1.7G   16K  1.7G   1% /tmp
+tmpfs           339M  112K  339M   1% /run/user/1000
+/dev/sr1        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm64
+/dev/sr0        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm641
+---------------
+Disk Report - Thu Oct  2 07:45:01 PM EDT 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           339M  1.7M  338M   1% /run
+/dev/nvme0n1p2   19G   11G  7.1G  61% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+efivarfs        256K   33K  224K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           1.7G   20K  1.7G   1% /tmp
+tmpfs           339M  112K  339M   1% /run/user/1000
+/dev/sr1        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm64
+/dev/sr0        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm641
+---------------
+Disk Report - Thu Oct  2 07:50:01 PM EDT 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           339M  1.7M  338M   1% /run
+/dev/nvme0n1p2   19G   11G  7.1G  61% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+efivarfs        256K   33K  224K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           1.7G   20K  1.7G   1% /tmp
+tmpfs           339M  112K  339M   1% /run/user/1000
+/dev/sr1        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm64
+/dev/sr0        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm641
+---------------
+Disk Report - Thu Oct  2 07:55:01 PM EDT 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           339M  1.7M  338M   1% /run
+/dev/nvme0n1p2   19G   11G  7.1G  61% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+efivarfs        256K   33K  224K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           1.7G   20K  1.7G   1% /tmp
+tmpfs           339M  116K  339M   1% /run/user/1000
+/dev/sr1        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm64
+/dev/sr0        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm641
+---------------
+Disk Report - Fri Oct  3 10:10:01 AM EDT 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           339M  1.8M  338M   1% /run
+/dev/nvme0n1p2   19G   12G  6.5G  64% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+efivarfs        256K   33K  224K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           1.7G   20K  1.7G   1% /tmp
+tmpfs           339M  120K  339M   1% /run/user/1000
+/dev/sr1        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm64
+/dev/sr0        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm641
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+---------------
+Disk Report - Fri Oct  3 10:15:01 AM EDT 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           339M  1.7M  338M   1% /run
+/dev/nvme0n1p2   19G   12G  6.5G  64% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+efivarfs        256K   33K  224K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           1.7G   24K  1.7G   1% /tmp
+tmpfs           339M  128K  339M   1% /run/user/1000
+/dev/sr1        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm64
+/dev/sr0        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm641
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+---------------
+Disk Report - Fri Oct  3 10:20:01 AM EDT 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           339M  1.8M  337M   1% /run
+/dev/nvme0n1p2   19G   12G  6.3G  65% /
+tmpfs           1.7G  4.0K  1.7G   1% /dev/shm
+efivarfs        256K   33K  224K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           1.7G   24K  1.7G   1% /tmp
+tmpfs           339M  4.1M  335M   2% /run/user/1000
+/dev/sr1        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm64
+/dev/sr0        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm641
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+---------------
+Disk Report - Fri Oct  3 10:25:01 AM EDT 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           339M  1.8M  337M   1% /run
+/dev/nvme0n1p2   19G   12G  6.3G  65% /
+tmpfs           1.7G  4.0K  1.7G   1% /dev/shm
+efivarfs        256K   33K  224K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           1.7G   24K  1.7G   1% /tmp
+tmpfs           339M  4.1M  335M   2% /run/user/1000
+/dev/sr1        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm64
+/dev/sr0        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm641
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+---------------
+Disk Report - Fri Oct  3 10:30:01 AM EDT 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           339M  1.8M  337M   1% /run
+/dev/nvme0n1p2   19G   12G  6.3G  65% /
+tmpfs           1.7G  4.0K  1.7G   1% /dev/shm
+efivarfs        256K   33K  224K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           1.7G   24K  1.7G   1% /tmp
+tmpfs           339M  4.1M  335M   2% /run/user/1000
+/dev/sr1        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm64
+/dev/sr0        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm641
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+---------------
+Disk Report - Fri Oct  3 10:35:01 AM EDT 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           339M  1.8M  337M   1% /run
+/dev/nvme0n1p2   19G   12G  6.3G  65% /
+tmpfs           1.7G  4.0K  1.7G   1% /dev/shm
+efivarfs        256K   33K  224K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           1.7G   24K  1.7G   1% /tmp
+tmpfs           339M  4.1M  335M   2% /run/user/1000
+/dev/sr1        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm64
+/dev/sr0        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm641
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+---------------
+Disk Report - Fri Oct  3 10:40:01 AM EDT 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           339M  1.8M  337M   1% /run
+/dev/nvme0n1p2   19G   12G  6.1G  66% /
+tmpfs           1.7G  4.0K  1.7G   1% /dev/shm
+efivarfs        256K   33K  224K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           1.7G  1.5M  1.7G   1% /tmp
+tmpfs           339M  4.1M  335M   2% /run/user/1000
+/dev/sr1        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm64
+/dev/sr0        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm641
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+---------------
+Disk Report - Fri Oct  3 10:45:01 AM EDT 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           339M  1.8M  337M   1% /run
+/dev/nvme0n1p2   19G   12G  5.8G  68% /
+tmpfs           1.7G  4.0K  1.7G   1% /dev/shm
+efivarfs        256K   33K  224K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           1.7G  1.5M  1.7G   1% /tmp
+tmpfs           339M  4.1M  335M   2% /run/user/1000
+/dev/sr1        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm64
+/dev/sr0        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm641
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+---------------
+Disk Report - Fri Oct 31 10:50:01 AM EDT 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           339M  1.8M  337M   1% /run
+/dev/nvme0n1p2   19G   13G  5.5G  70% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+efivarfs        256K   33K  224K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.7G   16K  1.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           339M   88K  339M   1% /run/user/119
+tmpfs           339M  108K  339M   1% /run/user/1000
+/dev/sr1        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm641
+/dev/sr0        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm64
+---------------
+Disk Report - Fri Oct 31 10:55:01 AM EDT 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           339M  1.8M  337M   1% /run
+/dev/nvme0n1p2   19G   13G  5.4G  70% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+efivarfs        256K   33K  224K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
 tmpfs           1.7G   20K  1.7G   1% /tmp
 tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
-tmpfs           336M  112K  336M   1% /run/user/1000
-/dev/sr0        100M  100M     0 100% /media/oaw6/CDROM
-/dev/sr1        5.9G  5.9G     0 100% /media/oaw6/Ubuntu 25.04 amd64
-tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
--------------------------------------eol
-Omar's Disk Performance Report - Wed Sep 24 08:01:58 PM EDT 2025:
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           339M  120K  339M   1% /run/user/1000
+/dev/sr1        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm641
+/dev/sr0        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm64
+---------------
+Disk Report - Fri Oct 31 11:00:01 AM EDT 2025
 Filesystem      Size  Used Avail Use% Mounted on
-tmpfs           336M  2.1M  334M   1% /run
-/dev/sda2        20G   11G  8.2G  56% /
-tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           339M  1.9M  337M   1% /run
+/dev/nvme0n1p2   19G   13G  5.4G  70% /
+tmpfs           1.7G  4.0K  1.7G   1% /dev/shm
+efivarfs        256K   33K  224K  13% /sys/firmware/efi/efivars
 tmpfs           5.0M  8.0K  5.0M   1% /run/lock
-tmpfs           1.7G   20K  1.7G   1% /tmp
-tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
-tmpfs           336M  112K  336M   1% /run/user/1000
-/dev/sr0        100M  100M     0 100% /media/oaw6/CDROM
-/dev/sr1        5.9G  5.9G     0 100% /media/oaw6/Ubuntu 25.04 amd64
 tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
----------------------------------Wed Sep 24 08:01:58 PM EDT 2025
-Omar's Disk Performance Report - Wed Sep 24 08:02:27 PM EDT 2025:
+tmpfs           1.7G   24K  1.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           339M  4.1M  335M   2% /run/user/1000
+/dev/sr1        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm641
+/dev/sr0        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm64
+---------------
+Disk Report - Fri Oct 31 11:05:01 AM EDT 2025
 Filesystem      Size  Used Avail Use% Mounted on
-tmpfs           336M  2.1M  334M   1% /run
-/dev/sda2        20G   11G  8.2G  56% /
-tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           339M  1.9M  337M   1% /run
+/dev/nvme0n1p2   19G   13G  5.4G  70% /
+tmpfs           1.7G  4.0K  1.7G   1% /dev/shm
+efivarfs        256K   33K  224K  13% /sys/firmware/efi/efivars
 tmpfs           5.0M  8.0K  5.0M   1% /run/lock
-tmpfs           1.7G   20K  1.7G   1% /tmp
-tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
-tmpfs           336M  112K  336M   1% /run/user/1000
-/dev/sr0        100M  100M     0 100% /media/oaw6/CDROM
-/dev/sr1        5.9G  5.9G     0 100% /media/oaw6/Ubuntu 25.04 amd64
 tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
----------------------------------Wed Sep 24 08:02:27 PM EDT 2025
+tmpfs           1.7G   28K  1.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           339M  4.1M  335M   2% /run/user/1000
+/dev/sr1        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm641
+/dev/sr0        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm64
+---------------
+Disk Report - Fri Oct 31 11:30:08 AM EDT 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           339M  1.9M  337M   1% /run
+/dev/nvme0n1p2   19G   13G  5.4G  70% /
+tmpfs           1.7G  4.0K  1.7G   1% /dev/shm
+efivarfs        256K   33K  224K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.7G   28K  1.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           339M  4.1M  335M   2% /run/user/1000
+/dev/sr1        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm641
+/dev/sr0        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm64
+---------------
+Disk Report - Fri Oct 31 02:05:01 PM EDT 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           339M  1.9M  337M   1% /run
+/dev/nvme0n1p2   19G   13G  5.4G  70% /
+tmpfs           1.7G  4.0K  1.7G   1% /dev/shm
+efivarfs        256K   33K  224K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.7G   28K  1.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           339M  4.1M  335M   2% /run/user/1000
+/dev/sr1        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm641
+/dev/sr0        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm64
+---------------
+Disk Report - Fri Oct 31 02:10:01 PM EDT 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           339M  1.9M  337M   1% /run
+/dev/nvme0n1p2   19G   13G  5.2G  71% /
+tmpfs           1.7G  4.0K  1.7G   1% /dev/shm
+efivarfs        256K   33K  224K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.7G   28K  1.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           339M  4.1M  335M   2% /run/user/1000
+/dev/sr1        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm641
+/dev/sr0        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm64
+---------------
+Disk Report - Sat Nov  8 10:55:01 PM EST 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           339M  1.7M  338M   1% /run
+/dev/nvme0n1p2   19G   13G  5.2G  71% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+efivarfs        256K   33K  224K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.7G   16K  1.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           339M  116K  339M   1% /run/user/1000
+/dev/sr1        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm641
+/dev/sr0        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm64
+---------------
+Disk Report - Sat Nov  8 11:00:01 PM EST 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           339M  1.8M  337M   1% /run
+/dev/nvme0n1p2   19G   14G  4.1G  78% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+efivarfs        256K   33K  224K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.7G   24K  1.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           339M  116K  339M   1% /run/user/1000
+/dev/sr1        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm641
+/dev/sr0        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm64
+---------------
+Disk Report - Sat Nov  8 11:05:26 PM EST 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           339M  1.8M  337M   1% /run
+/dev/nvme0n1p2   19G   14G  4.1G  78% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+efivarfs        256K   33K  224K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.7G   16K  1.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           339M   88K  339M   1% /run/user/119
+tmpfs           339M  108K  339M   1% /run/user/1000
+/dev/sr0        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm641
+/dev/sr1        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm64
+---------------
+Disk Report - Sat Nov  8 11:10:01 PM EST 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           339M  1.8M  337M   1% /run
+/dev/nvme0n1p2   19G   14G  4.0G  78% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+efivarfs        256K   33K  224K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.7G   16K  1.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           339M  116K  339M   1% /run/user/1000
+/dev/sr0        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm641
+/dev/sr1        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm64
+---------------
+Disk Report - Sat Nov  8 11:15:01 PM EST 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           339M  1.8M  337M   1% /run
+/dev/nvme0n1p2   19G   14G  3.8G  79% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+efivarfs        256K   33K  224K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.7G  428K  1.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           339M  116K  339M   1% /run/user/1000
+/dev/sr0        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm641
+/dev/sr1        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm64
+---------------
+Disk Report - Sat Nov  8 11:20:01 PM EST 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           339M  1.8M  337M   1% /run
+/dev/nvme0n1p2   19G   15G  3.2G  83% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+efivarfs        256K   33K  224K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.7G  8.0M  1.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           339M  116K  339M   1% /run/user/1000
+/dev/sr0        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm641
+/dev/sr1        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm64
+---------------
+Disk Report - Sat Nov  8 11:25:01 PM EST 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           339M  1.8M  337M   1% /run
+/dev/nvme0n1p2   19G   15G  3.2G  83% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+efivarfs        256K   33K  224K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.7G   14M  1.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           339M  116K  339M   1% /run/user/1000
+/dev/sr0        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm641
+/dev/sr1        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm64
+---------------
+Disk Report - Sat Nov  8 11:30:01 PM EST 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           339M  1.8M  337M   1% /run
+/dev/nvme0n1p2   19G   15G  3.2G  83% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+efivarfs        256K   33K  224K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.7G   14M  1.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           339M  116K  339M   1% /run/user/1000
+/dev/sr0        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm641
+/dev/sr1        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm64
+---------------
+Disk Report - Sat Nov  8 11:35:01 PM EST 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           339M  1.8M  337M   1% /run
+/dev/nvme0n1p2   19G   15G  3.2G  83% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+efivarfs        256K   33K  224K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.7G   14M  1.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           339M  116K  339M   1% /run/user/1000
+/dev/sr0        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm641
+/dev/sr1        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm64
+---------------
+Disk Report - Sat Nov  8 11:40:01 PM EST 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           339M  1.8M  337M   1% /run
+/dev/nvme0n1p2   19G   15G  3.2G  83% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+efivarfs        256K   33K  224K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.7G   14M  1.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           339M  116K  339M   1% /run/user/1000
+/dev/sr0        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm641
+/dev/sr1        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm64
+---------------
+Disk Report - Sat Nov  8 11:45:01 PM EST 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           339M  1.8M  337M   1% /run
+/dev/nvme0n1p2   19G   15G  3.2G  83% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+efivarfs        256K   33K  224K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.7G   14M  1.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           339M  116K  339M   1% /run/user/1000
+/dev/sr0        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm641
+/dev/sr1        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm64
+---------------
+Disk Report - Sat Nov  8 11:50:02 PM EST 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           339M  1.8M  337M   1% /run
+/dev/nvme0n1p2   19G   15G  3.2G  83% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+efivarfs        256K   33K  224K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.7G   14M  1.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           339M  116K  339M   1% /run/user/1000
+/dev/sr0        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm641
+/dev/sr1        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm64
+---------------
+Disk Report - Sat Nov  8 11:55:01 PM EST 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           339M  1.8M  337M   1% /run
+/dev/nvme0n1p2   19G   15G  3.2G  83% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+efivarfs        256K   33K  224K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.7G   14M  1.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           339M  120K  339M   1% /run/user/1000
+/dev/sr0        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm641
+/dev/sr1        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm64
+---------------
+Disk Report - Mon Nov 10 11:50:01 AM EST 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           339M  1.6M  338M   1% /run
+/dev/nvme0n1p2   19G   15G  3.2G  83% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+efivarfs        256K   33K  224K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           1.7G  8.0K  1.7G   1% /tmp
+tmpfs           339M   88K  339M   1% /run/user/119
+---------------
+Disk Report - Mon Nov 10 12:35:18 PM EST 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           339M  1.6M  338M   1% /run
+/dev/nvme0n1p2   19G   15G  3.2G  83% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+efivarfs        256K   33K  224K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           1.7G  8.0K  1.7G   1% /tmp
+tmpfs           339M   88K  339M   1% /run/user/119
+---------------
+Disk Report - Mon Nov 10 12:40:02 PM EST 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           339M  1.6M  338M   1% /run
+/dev/nvme0n1p2   19G   15G  3.2G  83% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+efivarfs        256K   33K  224K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           1.7G   12K  1.7G   1% /tmp
+tmpfs           339M   88K  339M   1% /run/user/119
+---------------
+Disk Report - Mon Nov 10 12:45:01 PM EST 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           339M  1.6M  338M   1% /run
+/dev/nvme0n1p2   19G   15G  3.2G  83% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+efivarfs        256K   33K  224K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           1.7G   12K  1.7G   1% /tmp
+tmpfs           339M   88K  339M   1% /run/user/119
+---------------
+Disk Report - Mon Nov 10 12:50:01 PM EST 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           339M  1.6M  338M   1% /run
+/dev/nvme0n1p2   19G   15G  3.2G  83% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+efivarfs        256K   33K  224K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           1.7G   12K  1.7G   1% /tmp
+tmpfs           339M   88K  339M   1% /run/user/119
+---------------
+Disk Report - Mon Nov 10 12:55:01 PM EST 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           339M  1.6M  338M   1% /run
+/dev/nvme0n1p2   19G   15G  3.2G  83% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+efivarfs        256K   33K  224K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           1.7G   12K  1.7G   1% /tmp
+tmpfs           339M   88K  339M   1% /run/user/119
+---------------
+Disk Report - Mon Nov 10 01:00:01 PM EST 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           339M  1.6M  338M   1% /run
+/dev/nvme0n1p2   19G   15G  3.2G  83% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+efivarfs        256K   33K  224K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           1.7G   12K  1.7G   1% /tmp
+tmpfs           339M   88K  339M   1% /run/user/119
+---------------
+Disk Report - Mon Nov 10 01:05:01 PM EST 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           339M  1.6M  338M   1% /run
+/dev/nvme0n1p2   19G   15G  3.2G  83% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+efivarfs        256K   33K  224K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           1.7G   12K  1.7G   1% /tmp
+tmpfs           339M   88K  339M   1% /run/user/119
+---------------
+Disk Report - Mon Nov 10 01:10:01 PM EST 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           339M  1.6M  338M   1% /run
+/dev/nvme0n1p2   19G   15G  3.2G  83% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+efivarfs        256K   33K  224K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           1.7G   12K  1.7G   1% /tmp
+tmpfs           339M   88K  339M   1% /run/user/119
+---------------
+Disk Report - Mon Nov 10 01:15:01 PM EST 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           339M  1.6M  338M   1% /run
+/dev/nvme0n1p2   19G   15G  3.2G  83% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+efivarfs        256K   33K  224K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           1.7G   12K  1.7G   1% /tmp
+tmpfs           339M   88K  339M   1% /run/user/119
+---------------
+Disk Report - Mon Nov 10 04:00:01 PM EST 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           339M  1.9M  337M   1% /run
+/dev/nvme0n1p2   19G   15G  2.9G  84% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+efivarfs        256K   33K  224K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           1.7G  2.2M  1.7G   1% /tmp
+tmpfs           339M   92K  339M   1% /run/user/119
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           339M  112K  339M   1% /run/user/1000
+/dev/sr1        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm64
+/dev/sr0        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm641
+---------------
+Disk Report - Mon Nov 10 04:05:01 PM EST 2025
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           339M  1.9M  337M   1% /run
+/dev/nvme0n1p2   19G   15G  2.9G  84% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+efivarfs        256K   33K  224K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           1.7G  2.2M  1.7G   1% /tmp
+tmpfs           339M   92K  339M   1% /run/user/119
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           339M  112K  339M   1% /run/user/1000
+/dev/sr1        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm64
+/dev/sr0        3.6G  3.6G     0 100% /media/rahul-iyer/Ubuntu 25.04 arm641
+---------------
